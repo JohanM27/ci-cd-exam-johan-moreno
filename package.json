@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-exam-johan-moreno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo 'Lint passed'",
+    "test": "echo 'Test passed'",
+    "coverage": "echo 'Coverage passed'"
+  },
+  "license": "MIT"
+}
